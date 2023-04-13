@@ -38,5 +38,5 @@ During the game, I implemented three types of apples with different properties:
 
 The program draws the snake with red and green dots, where the red dot represents the head and the green dots represent the body. (See Figure 7).
 
-![My Image](Picture7.png)
+![My Image](Picture7.png)(Figure 7)
 
